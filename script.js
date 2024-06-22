@@ -29,3 +29,5 @@ signupLoginLink.forEach(link => {
         formPopup.classList[link.id === 'signup-link' ? 'add' : 'remove']("show-signup");
     });
 });
+
+alert("Dear User, We're sorry to say it but we are under development with this site.")
